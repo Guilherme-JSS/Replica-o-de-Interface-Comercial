@@ -14,11 +14,16 @@ header {
 
 
 
+body{
+    background-color: antiquewhite;
+}
+
 div {
     background-color: blueviolet;
     height: 100px;
     width: 100px;
 }
+
 
 .robo{
     width: 10px;
