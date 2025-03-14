@@ -5,8 +5,14 @@ div {
 }
 
 .robo{
-    background-color: cadetblue;
-    width: 20px;
+    width: 10px;
+    height: 10px;
+}
+
+.robo img{
+    
+    width: 10%;
+    height: 10%;
 }
 
 .produto button {
@@ -21,3 +27,8 @@ div {
     font-size: 16px;
     font-weight: 600;
 }
+
+.flex{
+    display: flex;
+}
+
