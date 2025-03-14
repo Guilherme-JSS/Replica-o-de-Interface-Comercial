@@ -20,8 +20,8 @@ header {
 }
 
 .robo img {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
 
 .menu, .status-pedidos, .recomendacoes, .mensagens, .ultimas-requisicoes, .ultimas-transacoes, .capitulo {
