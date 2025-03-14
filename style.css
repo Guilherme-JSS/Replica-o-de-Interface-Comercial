@@ -5,6 +5,19 @@ div {
 }
 
 .robo{
-    background-color: ;
-    width: ;
+    background-color: wheat;
+    width: 30px;
+}
+
+.produto button {
+    background: #000;
+    color: white;
+    border: none;
+    padding: 12px;
+    width: 100%;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: background 0.6s, transform 0.3s;
+    font-size: 16px;
+    font-weight: 600;
 }
