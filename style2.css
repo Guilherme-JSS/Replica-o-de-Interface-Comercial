@@ -1,9 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 body {
-    background-color: aqua;
+    background-color:whitesmoke
 }
 
 nav {
     text-align: left;
+    background-color:rgba(92, 102, 109, 0.562);
 
 }
 
