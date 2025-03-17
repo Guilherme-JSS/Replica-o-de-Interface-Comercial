@@ -3,10 +3,24 @@ body {
 }
 
 nav {
-    text-align: center;
+    text-align: left;
 
 }
 
 nav a:hover  {
     color: brown;
+}
+
+.barra {
+    background: repeating-linear-gradient(
+        -35deg,
+        #a3995d, 
+        #FFD700 10px, 
+        #F0E68C 10px, 
+        #F0E68C 20px
+    );
+    height: 20px;
+    width: 100%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
