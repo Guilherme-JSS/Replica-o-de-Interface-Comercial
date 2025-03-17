@@ -12,7 +12,7 @@ body {
 nav {
     text-align: left;
     background-color:rgba(92, 102, 109, 0.562);
-
+    
 }
 
 nav a:hover  {
@@ -21,7 +21,7 @@ nav a:hover  {
 
 .barra {
     background: repeating-linear-gradient(
-        -35deg,
+        -60deg,
         #a3995d, 
         #FFD700 10px, 
         #F0E68C 10px, 
