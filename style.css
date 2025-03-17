@@ -22,7 +22,7 @@ body {
     background-color: rgba(59, 148, 207, 0.288);
     margin: 20px;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 30px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 600px ;
     height: 300px;
@@ -36,10 +36,15 @@ body {
     background-color: rgba(54, 133, 185, 0.432);
     margin: 20px;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 30px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+.ultimas-requisicoes img{
+    height: 300px;
+    width: 1130px;
+    border-radius: 30px;
+}
 
 table {
     width: 100%;
