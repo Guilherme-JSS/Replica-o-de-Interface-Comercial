@@ -19,7 +19,7 @@ body {
 }
 
 .menu, .status-pedidos, .recomendacoes, .mensagens, .ultimas-transacoes, .capitulo {
-    background-color: white;
+    background-color: rgba(59, 148, 207, 0.288);
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
@@ -33,7 +33,7 @@ body {
 
     width: 1200px;
     height: 300px;
-    background-color: white;
+    background-color: rgba(54, 133, 185, 0.432);
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
@@ -76,4 +76,19 @@ img{
 
 section{
     background-color: aquamarine;
+}
+
+.imagem-recomendacao {
+    text-align: center;
+}
+
+.imagem-recomendacao img {
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+}
+
+.imagem-recomendacao p {
+    margin-top: 10px;
+    font-size: 14px;
 }
