@@ -18,7 +18,7 @@ body {
 }
 
 .menu, .status-pedidos, .recomendacoes, .mensagens, .ultimas-requisicoes, .ultimas-transacoes, .capitulo, .sec1 {
-    background-color: white;
+    background-color: rgba(59, 148, 207, 0.288);
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
@@ -52,4 +52,12 @@ ul li {
 ul li:last-child {
     border-bottom: none;
 
+}
+
+img{
+    text-align: center;
+}
+
+section{
+    background-color: aquamarine;
 }
