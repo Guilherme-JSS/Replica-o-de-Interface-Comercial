@@ -17,7 +17,7 @@ body {
     height: 200px;
 }
 
-.menu, .status-pedidos, .recomendacoes, .mensagens, .ultimas-requisicoes, .ultimas-transacoes, .capitulo {
+.menu, .status-pedidos, .recomendacoes, .mensagens, .ultimas-requisicoes, .ultimas-transacoes, .capitulo, .sec1 {
     background-color: white;
     margin: 20px;
     padding: 20px;
