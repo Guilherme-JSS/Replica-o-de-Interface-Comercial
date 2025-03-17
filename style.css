@@ -10,6 +10,7 @@ body {
     align-items: center;
     gap: 20px;
     padding: 20px;
+
 }
 
 .robo img {
@@ -17,13 +18,27 @@ body {
     height: 200px;
 }
 
-.menu, .status-pedidos, .recomendacoes, .mensagens, .ultimas-requisicoes, .ultimas-transacoes, .capitulo, .sec1 {
-    background-color: rgba(59, 148, 207, 0.288);
+.menu, .status-pedidos, .recomendacoes, .mensagens, .ultimas-transacoes, .capitulo {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 400px ;
+   
+}
+
+.recomendacoes, .sec1, .ultimas-requisicoes {
+
+    width: 1000px;
+    height: 300px;
+    background-color: white;
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
 
 table {
     width: 100%;
