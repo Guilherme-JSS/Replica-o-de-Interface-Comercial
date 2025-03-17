@@ -68,3 +68,11 @@ ul li:last-child {
     border-bottom: none;
 
 }
+
+img{
+    text-align: center;
+}
+
+section{
+    background-color: aquamarine;
+}
