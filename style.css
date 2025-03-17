@@ -94,3 +94,11 @@ img{
     margin-top: 10px;
     font-size: 14px;
 }
+
+.ligacao{
+    background-color: darkblue;
+    text-align:center;
+    border-radius: 20px;
+    color: white;
+    
+}
