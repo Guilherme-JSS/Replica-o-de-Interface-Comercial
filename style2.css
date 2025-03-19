@@ -6,7 +6,7 @@
 
 
 body {
-    background-color:whitesmoke
+    background-color: floralwhite;
 }
 
 nav {
@@ -45,7 +45,15 @@ p {
 button{
     margin: 10px    ;
     height: 40px;
-    width: 40px;
+    width: 60px;
 
 }
 
+.sec1{
+    background-color:  rgb(170, 189, 170), rgb(101, 114, 134);
+}
+
+button img{
+    width: 50%;
+    height: 50%;
+}
