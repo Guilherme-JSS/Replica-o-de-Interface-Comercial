@@ -137,8 +137,47 @@ img{
     
 }
 
-.recomendacoes {
-    height: 400px;
-    width: 1145px;
+.mensagens p{
+    font-size: 10px;
+    color: gray;
+    display: block;
+}
+
+.mensagens li{
+    display: flex;
+    align-items: flex-start;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+    
+}
+
+.mensagens li div{
+    display: block;
+    height: 30px;
+}
+
+.mensagens ul{
+   list-style: none;
+   padding: 0;
+   margin: 0;
+   flex-direction: column;
+   display: flex;
+}
+
+.mensagens img{
+    width: 35px;
+    height: 35px;
+    border-radius: 10px ;
+    margin-right: 10px;
+}
+
+.mensagens strong{
+    color:black;
+    display: block;
+
 }
     
