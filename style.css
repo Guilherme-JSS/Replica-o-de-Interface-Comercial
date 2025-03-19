@@ -107,19 +107,24 @@ img{
 .mensagens p{
     font-size: 10px;
     color: gray;
-    display: list-item;
+    display: block;
 }
 
 .mensagens li{
     display: flex;
- 
-    align-items: center;
+    align-items: flex-start;
     background-color: white;
-    border-radius: 30px;
+    border-radius: 10px;
     padding: 10px;
     margin-bottom: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     position: relative;
+    
+}
+
+.mensagens li div{
+    display: block;
+    height: 30px;
 }
 
 .mensagens ul{
@@ -131,15 +136,15 @@ img{
 }
 
 .mensagens img{
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: auto;
     border-radius: 50% ;
     margin-right: 10px;
 }
 
 .mensagens strong{
     color:black;
-    display: flex;
+    display: block;
 
 }
 
