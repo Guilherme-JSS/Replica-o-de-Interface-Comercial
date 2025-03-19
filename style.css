@@ -79,6 +79,11 @@ img{
     text-align: center;
 }
 
+.recomendacoes {
+    width: 1145px;
+    height: 400px;
+}
+
 .imagem-recomendacao {
     height: 240px;
     width: 300px;
