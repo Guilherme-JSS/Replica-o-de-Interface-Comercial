@@ -32,3 +32,12 @@ nav a:hover  {
     border-top: 1px solid black;
     border-bottom: 1px solid black;
 }
+
+.flex{
+    display: flex;
+}
+
+p {
+    margin: 20px;
+}
+
