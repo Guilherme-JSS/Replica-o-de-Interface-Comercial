@@ -82,18 +82,26 @@ img{
 
 
 .imagem-recomendacao {
+    height: 200px;
+    width: 145px;
     text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .imagem-recomendacao img {
     width: 125px;
-    height: 150px;
-    border-radius: 25px;
+    height: 160px;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    
 }
 
 .imagem-recomendacao p {
-    margin-top: 10px;
+    margin-top: 2px;
     font-size: 14px;
+    
 }
 
 .ligacao{
